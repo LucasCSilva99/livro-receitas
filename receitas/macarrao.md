@@ -1,10 +1,8 @@
-#Macarrão de Pizza
+# Macarrão de Pizza
 
-##Cozinhar massa
+## Cozinhar massa
 
-###Refogar ingredientes para o molho
-
-### testes
+### Refogar ingredientes para o molho
 
 *teste
 *teste
